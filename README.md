@@ -42,6 +42,8 @@ This project is designed to process source code files listed in a CSV file, anal
         - `old groupId`, `old artifactId`, `old versionId`: Old dependency details.
         - `target groupId`, `target artifactId`, `target versionId`: New dependency details.
 
+    Note: there is an example file provided here `/data/M1.8.csv`
+
 2. **Run the script:**
     ```sh
     python app/main.py <csv_filename>

@@ -1,0 +1,2 @@
+frequency,line_content,spring component,change_status,compatibility_changes,constructor_changes,method_changes,field_changes,guidelines,old groupId,old artifactId,old versionId,target groupId,target artifactId,target versionId,file_path
+877,org.springframework.transaction.annotation.Transactional,spring-tx,MODIFIED,,,,,,org.springframework,spring-tx,4.1.2.RELEASE,org.springframework,spring-tx,5.3.31,core/src/main/java/com/jive/api/access/dao/impl/ApiDAOImpl.java
